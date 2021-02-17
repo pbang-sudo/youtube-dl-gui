@@ -9,7 +9,7 @@ For instance:
 * must have python-3.x installed
 * must have pytube, PILLOW, requests installed
 
-# For the file to run:
+# For file to run:
  `python3 main.py`
 
 # NOTES
@@ -18,6 +18,6 @@ As it is a work under progress I would like to say that this projects lacks some
 # LICENSE
 Licensed under MIT License
 
-*Copyright (c) 2020 Pratyush Sharma*
+*Copyright (c) 2021 Pratyush Sharma*
 
-Have a look at the `LICENSE` for details
+Have a look at the `LICENSE` for details.
