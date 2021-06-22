@@ -20,4 +20,4 @@ Licensed under MIT License
 
 *Copyright (c) 2021 Pratyush Sharma*
 
-Have a look at the `LICENSE` for details.
+Have a look at the [`LICENSE`](LICENSE) for details.
